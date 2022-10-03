@@ -1,0 +1,29 @@
+// rightArrow.addEventListener("click", changeGalleryRight);
+// leftArrow.addEventListener("click", changeGalleryLeft);
+
+// function changeGalleryRight() {
+//     index++;
+// //     console.log(index);
+//     if (index >= galleryBox.length) index =0;
+
+// //     //console.log(index);
+//     nextGallery = galleryBox[index];
+//     active.classList.remove("active");
+//     nextGallery.classList.add("active");
+//     active = lightbox.querySelector(".gallery-lightbox__box.active");
+//     console.log(index);
+//     startLightbox();
+// }
+
+// function changeGalleryLeft() {
+//     index--;
+//     if (index < 0) index = galleryBox.length - 1;
+//     //console.log(index);
+//     prevGallery = galleryBox[index];
+//     active.classList.remove("active");
+//     prevGallery.classList.add("active");
+//     active = lightbox.querySelector(".gallery-lightbox__box.active");
+//     startLightbox();
+// }
+
+**********************************************************

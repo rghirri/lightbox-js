@@ -25,6 +25,7 @@ body {
   width: 100%;
   font-size: 1.6rem;
   background-color: var(--off-white);
+  overflow: hidden;
 }
 
 .container {
@@ -152,12 +153,12 @@ img {
 
 button.arrow {
   background-color: transparent;
-  border: 0.2rem solid var(--off-white);
+  border: 0.2rem solid transparent;
   color: var(--off-white);
   padding: 1.2rem;
-  font-size: 2.5rem;
+  font-size: 6.5rem;
   cursor: pointer;
-  border-radius: 0.6rem;
+  /* border-radius: 0.6rem; */
   display: flex;
   justify-content: center;
   align-items: center;
